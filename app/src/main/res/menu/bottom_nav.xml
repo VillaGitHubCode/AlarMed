@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/doctor_item"
+        android:icon="@drawable/ic_doctor"
+        android:title="Citas" />
+    <item
+        android:id="@+id/med_item"
+        android:icon="@drawable/ic_medication"
+        android:title="Medicación" />
+    <item
+        android:id="@+id/calendar_item"
+        android:icon="@drawable/ic_calendar"
+        android:title="Agenda" />
+</menu>
